@@ -1,0 +1,10 @@
+.mimi {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 5%;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    align-self: center;
+}
